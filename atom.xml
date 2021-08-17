@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>新时代农民工的博客</title>
+  
+  
+  <link href="https://www.yangyinxuanblog.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.yangyinxuanblog.com/"/>
+  <updated>2021-08-17T08:35:12.337Z</updated>
+  <id>https://www.yangyinxuanblog.com/</id>
+  
+  <author>
+    <name>yyx</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://www.yangyinxuanblog.com/2021/08/16/test/"/>
+    <id>https://www.yangyinxuanblog.com/2021/08/16/test/</id>
+    <published>2021-08-16T20:34:54.000Z</published>
+    <updated>2021-08-17T08:35:12.337Z</updated>
+    
+    <content type="html"><![CDATA[<p>asdoajsdjaisoj</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;asdoajsdjaisoj&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://www.yangyinxuanblog.com/2021/08/16/hello/"/>
+    <id>https://www.yangyinxuanblog.com/2021/08/16/hello/</id>
+    <published>2021-08-16T06:21:10.000Z</published>
+    <updated>2021-08-17T08:27:35.803Z</updated>
+    
+    <content type="html"><![CDATA[<p>asdzx</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;asdzx&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
